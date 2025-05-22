@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>隱私權政策 - AconFoot</title>
+  <style>
+    body {
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      color: #0057b8;
+    }
+  </style>
+</head>
+<body>
+  <h1>隱私權政策</h1>
+  <p><strong>最後更新日期：</strong>2025 年 5 月 21 日</p>
+
+  <p>AconFoot 是由 Acon Biomedical 開發的應用程式，我們非常重視使用者的隱私權。本政策說明我們如何收集、使用與保護您的資訊。</p>
+
+  <h2>1. 資訊收集</h2>
+  <p>我們的應用程式 <strong>不會收集、儲存或分享任何個人資訊</strong>。使用者使用本應用時，所有資料皆僅保留於本地裝置中，不會上傳至任何伺服器。</p>
+
+  <h2>2. 第三方服務</h2>
+  <p>本應用程式<strong>未使用任何第三方服務</strong>（例如 Google Analytics、Firebase 等），因此不涉及任何第三方資料收集行為。</p>
+
+  <h2>3. 權限使用</h2>
+  <p>我們的應用可能會要求裝置的某些權限（如相機或儲存空間），其目的是為了支援應用核心功能。這些資料<strong>不會被我們收集或傳送</strong>。</p>
+
+  <h2>4. 政策變更</h2>
+  <p>我們可能會不定期更新本隱私權政策。若有重大變更，我們會在應用程式或官網上公告。</p>
+
+  <h2>5. 聯絡我們</h2>
+  <p>若您對本政策有任何疑問，歡迎透過以下方式聯繫我們：</p>
+  <ul>
+    <li>Email：<a href="mailto:acon.biomedical@gmail.com">acon.biomedical@gmail.com</a></li>
+  </ul>
+
+  <p>感謝您使用 AconFoot。</p>
+</body>
+</html>
