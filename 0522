@@ -1,0 +1,27 @@
+index.html
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AconFoot 隱私權政策</title>
+</head>
+<body style="font-family: sans-serif; max-width: 700px; margin: auto; padding: 2rem;">
+  <h1>AconFoot 隱私權政策</h1>
+  <p><strong>更新日期：</strong>2025年5月21日</p>
+
+  <h2>1. 資料蒐集</h2>
+  <p>本應用程式不會收集任何可識別您個人身份的資料。</p>
+
+  <h2>2. 第三方服務</h2>
+  <p>本應用程式未使用任何第三方分析工具、廣告服務或外部 SDK。</p>
+
+  <h2>3. 資料儲存</h2>
+  <p>所有資料皆儲存於使用者裝置本地端，不會上傳至雲端或伺服器。</p>
+
+  <h2>4. 聯絡我們</h2>
+  <p>若您對本政策有任何疑問，請聯絡我們：</p>
+  <p>Email：<a href="mailto:acon.biomedical@gmail.com">acon.biomedical@gmail.com</a></p>
+</body>
+</html>
+add index.html for GitHub Pages
